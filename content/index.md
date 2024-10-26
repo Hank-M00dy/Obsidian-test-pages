@@ -1,7 +1,12 @@
 ---
 title: Welcome to my page
+draft: true
+tags:
 ---
-
+ 
+The rest of your content lives here. You can use **Markdown** here :)
+ 
+The rest of your content lives here. You can use **Markdown** here :)
 Welcome, this is the start of my journey into publishing online, iv heard it called a few different things but I like "working with the garage door open"
 
 I was introduced to this concept and liked the idea of opening up my ideas and notes to the public. The goal is to document projects I'm working on and publicly share my study notes for various courses and certifications iv done and am taking.
