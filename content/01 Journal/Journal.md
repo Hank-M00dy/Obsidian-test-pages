@@ -1,6 +1,6 @@
 ---
 title: Journal
-draft: true
+draft: false
 tags:
 ---
  
