@@ -21,6 +21,8 @@ link to a journal like blog use to quickly link to new content and track changes
 Link to the knowledge base, I often forget how extensive the field of IT really is and how easy it is to forget the fine print when solving a problem. this section will be cram full of useful specs and info like what is the real difference between cat5e and cat6
 ## [[Projects]]
 Link to a projects section where I can document notes on things I'm working on outside of official tracks or projects inspired by what iv been studying
+## [[My Favourite Software]]
+A collection of software that I have personally used
 
 ---
 
