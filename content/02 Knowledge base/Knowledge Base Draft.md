@@ -1,9 +1,9 @@
 ---
 title: Knowledge Base
-draft: false
+draft: true
 tags:
 ---
-
+The acquisition of an old second-hand IBM 486 for Christmas one year, kick started my interest in computers,
 
 
 
