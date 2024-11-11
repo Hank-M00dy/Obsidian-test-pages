@@ -1,7 +1,24 @@
 ---
 title: Welcome to my page
 ---
+---
 # WORK IN PROGRESS
+This site is very new so keep checking back often for new content, iv added a 'what's new' segment to this page so you can see strait away if anything has been added recently, I will keep it to 5 entry's but a complete can be found in [[Journal]]
+
+---
+# What's new
+
+- 11/11/2024
+	- Added my first entry into the software category, Space Monger, read about it here [[My Favourite Software]]
+- 4/11/2024
+	- Added a few more pages to my study notes in the Network+ section
+		- [[1.1 The OSI Model]]
+		- [[1.2 Network Topologies and Types]]
+		- [[1.4 IP Subnetting]]
+		- [[1.5 ports and protocols and encrypted alternatives]]
+
+---
+
 
 Welcome, this is the start of my journey into publishing online, iv heard it called a few different things but I like "working with the garage door open"
 
@@ -13,7 +30,7 @@ By sharing my notes I hope to provide a knowledge base myself and others can ref
 
 The overall structure will be as follows
 
-## landing page
+## [[Index]]
 The central hub, this should allow you or I to navigate to information quickly and foster exploration
 ## [[Journal]]
 link to a journal like blog use to quickly link to new content and track changes
