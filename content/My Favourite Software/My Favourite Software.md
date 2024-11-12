@@ -5,6 +5,7 @@ tags:
 ---
 # Space Monger 
 Installed on: Windows 11
+
 [Link](https://www.portablefreeware.com/index.php?id=150)
 
 ![[Pasted image 20241111211949.png]]
