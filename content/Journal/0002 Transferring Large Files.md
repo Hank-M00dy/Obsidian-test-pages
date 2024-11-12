@@ -3,7 +3,7 @@ title: Journal
 draft: true
 tags:
 ---
-![[0002.png]] 
+![[content/Journal/attachments/0002.png]] 
 https://transfer.zip
 
 transfer large files
