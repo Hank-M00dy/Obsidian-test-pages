@@ -16,7 +16,7 @@ By sharing my Projects I hope to foster easier collaboration and inspire others 
 
 By sharing my notes I hope to provide a knowledge base myself and others can refer to. My aim is to bring a lot of different topis of interest together into one place, hopefully relevant to one another when viewed as a whole.
 
-The overall structure will be as follows
+The overall structure will be as follows:
 
 ## [[Index]]
 The central hub, this should allow you or I to navigate to information quickly and foster exploration
