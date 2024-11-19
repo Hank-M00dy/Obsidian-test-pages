@@ -34,7 +34,11 @@ A collection of software that I have personally used
 
 - 19/11/2024
 	- formatted and filled gaps in my notes for 2 more sections and published
+		- added [[1.6  network services]]
+		- added [[1.7  Datacentre network architecture]]
 	- took 2 articles off draft in the projects section, need to embrace posting stuff before its finished
+	- made a small addition to [[CD DVD Recovery]], added observations about the condition of the media
+	- copied everything from the what's new section to the journal and edited this section down to 3 entry's
 
 ---
 
@@ -55,22 +59,6 @@ A collection of software that I have personally used
 			- ![[Pasted image 20241112191348.png]]
 
 ---
-
-- 4/11/2024
-	- Added a few more pages to my study notes in the Network+ section
-		- [[1.1 The OSI Model]]
-		- [[1.2 Network Topologies and Types]]
-		- [[1.4 IP Subnetting]]
-		- [[1.5 ports and protocols and encrypted alternatives]]
-
----
-
-
-
-
----
-
-
 
 
 

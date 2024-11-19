@@ -5,6 +5,15 @@ tags:
 ---
 - Its time to go through everything iv been hanging onto over the years
 - optical media is reaching its limit, starting to rot
+- seeing a pattern with disk condition
+	- music cds have the most rot
+		- prob spent time in the sun
+		- exposed to the elements
+	- cd dvd in cases in the best condition
+		- data backups
+		- never touched
+	- cds dvds in folder cases in good condition but needed cleaning
+		- light scratches found
 - 
 - https://www.youtube.com/watch?v=agk-CmrWMek
 - https://www.reddit.com/r/computerforensics/comments/ul8e7r/a_starters_guide_on_recovering_damaged_and_rotten/
