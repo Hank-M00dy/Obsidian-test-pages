@@ -28,6 +28,7 @@ tags:
 			- a **LF** (Line Feed) was the roller advancing the paper by a set increment, moving down a line. An LF was often initiated by the **CR** unless you were correcting an error, bringing the carriage back part of the way would not initiate a **CR**
 		- In the Unix world they only do a **LF** and its assumed you go back to the beginning.
 			- it is my assumption that my issue stems from this, the markdown language is issuing an **LF** but the static site generator Quarts needs a **CRLF** to produce the same result.
+		- This may also be the reason why when you open a document on windows its all one continuous line, its missing the line feeds.
 
 ---
 
