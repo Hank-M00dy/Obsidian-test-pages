@@ -17,6 +17,17 @@ tags:
 		- `![[page your referencing#Heading]]`
 			- by changing the dates to headings instead of dot points I can just reference the date on the index page which gets rid of duplicate effort
 			- eliminates the chance there will be discrepancies between 'what's new' and 'Journal'
+- There is still the issue of text appearing on a new line in Obsidian but appearing on one line when published to the web
+	- how it appears on the web
+		- ![[Pasted image 20241120001816.png]]
+	- how it appears in Obsidian
+		- ![[Pasted image 20241120002048.png]]
+	- In a video I watched recently from IT Pro TV "CompTIA Linux+: Using vi/vim to edit files" they mention that at the bottom of the screen vim displays how text is formatted, they revile that there are different ways a line feed is formatted
+		- in Microsoft Office at the end of every line is a **CRLF**, Carriage Return Line Feed, terms that go back to the typewriter days
+			- a **CR** (Carriage Return)was the act of the mechanical printing head returning to the beginning of the line, if you ever used an old type writer you may have grabbed the leaver to manually pull the head back to its starting position. 
+			- a **LF** (Line Feed) was the roller advancing the paper by a set increment, moving down a line. An LF was often initiated by the **CR** unless you were correcting an error, bringing the carriage back part of the way would not initiate a **CR**
+		- In the Unix world they only do a **LF** and its assumed you go back to the beginning.
+			- it is my assumption that my issue stems from this, the markdown language is issuing an **LF** but the static site generator Quarts needs a **CRLF** to produce the same result.
 
 ---
 
