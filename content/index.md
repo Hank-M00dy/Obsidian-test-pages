@@ -32,6 +32,12 @@ A collection of software that I have personally used
 ---
 # What's new
 
+- 19/11/2024
+	- formatted and filled gaps in my notes for 2 more sections and published
+	- took 2 articles off draft in the projects section, need to embrace posting stuff before its finished
+
+---
+
 - 12/11/2024
 	- The Explorer section displayed on the left of the screen appears as a numbered list, they appear like this because each section resides in a folder and iv numbered them to be in a specific order, I don't like how it looks so I'm removing it, should make it look a bit cleaner
 		- ![[Pasted image 20241112191221.png]]
