@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a4de87f9c5943241","x":-183,"y":-128,"width":323,"height":88,"type":"text","text":"This is a test to see if the canvas pages work in quartz, game changer if it does"},
+		{"id":"42bb254d62c732c1","x":329,"y":-223,"width":250,"height":60,"type":"text","text":"adding a few elements"},
+		{"id":"7438eca173ab6016","x":337,"y":11,"width":250,"height":60,"type":"text","text":"another element"},
+		{"id":"e90ad27717d7a3c9","x":-225,"y":294,"width":1145,"height":1906,"type":"file","file":"content/Projects/NAS Revamp.md"},
+		{"id":"4d35c00ab16a52e7","x":331,"y":142,"width":309,"height":78,"type":"text","text":"reference from another page"}
+	],
+	"edges":[
+		{"id":"9500883769d97be7","fromNode":"a4de87f9c5943241","fromSide":"right","toNode":"42bb254d62c732c1","toSide":"left"},
+		{"id":"329401b98b71e19b","fromNode":"42bb254d62c732c1","fromSide":"bottom","toNode":"7438eca173ab6016","toSide":"top"},
+		{"id":"d1d88f3a97ce73c4","fromNode":"7438eca173ab6016","fromSide":"bottom","toNode":"4d35c00ab16a52e7","toSide":"top"},
+		{"id":"6e002956e1b5c75b","fromNode":"4d35c00ab16a52e7","fromSide":"bottom","toNode":"e90ad27717d7a3c9","toSide":"top"}
+	]
+}
