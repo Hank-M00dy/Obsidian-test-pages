@@ -43,3 +43,20 @@ Security
 - encryption?
 - snapshots?
 
+## Input From a Professional
+
+- **Compare snapshots and backups**:
+    - Understand that snapshots act as pointers to a state in time.
+    - Investigate the importance of quiescing when creating snapshots to ensure data consistency.
+    - Recognize that backups allow for full restoration of data, providing a complete recovery solution.
+
+- **Security considerations**:
+    - Explore the concept of immutable backups.
+    - Research how immutable backups can protect against ransomware attacks by preventing unauthorized modifications.
+
+- **Research expansion**:
+    
+    - Identify scenarios where snapshots are sufficient versus when full backups are necessary.
+    - Look into tools and methods for implementing secure, immutable backup systems.
+    - Evaluate the role of snapshots and backups in disaster recovery planning. 
+
