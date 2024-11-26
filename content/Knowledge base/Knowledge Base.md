@@ -18,3 +18,6 @@ tags:
 			- [[1.4 IP Subnetting]]
 			- [[1.5 ports and protocols and encrypted alternatives]]
 	- Security+
+	- Linux+
+		- [[man pages and offline knowledge-base]]
+		- 
