@@ -5,6 +5,17 @@ tags:
 ---
 **A history of edits to the site**
 
+# 29/11/2024
+- Mainly performed rearranging of the the files within the Obsidian vault, because every note is a file and every attachment is a separate file as well things get out of hand very quickly.
+	- started nesting parts of the blog for better separation
+		- If the site breaks this is probably why
+	- ![[Pasted image 20241129232127.png]]
+- Added a couple of Items to the software section
+	- [[Obsidian]] was an obvious addition due to the amount I use it
+	- [[Mousam]] is a beautiful weather app for Linux that I found recently
+- used my improved method for updating the journal section on the main page for the first time, works really well, no improvement needed
+
+---
 # 19/11/2024
 - formatted and filled gaps in my notes for 2 more sections and published
 	- added [[1.6  network services]]
