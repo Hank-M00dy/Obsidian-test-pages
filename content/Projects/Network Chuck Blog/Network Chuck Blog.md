@@ -1,3 +1,10 @@
+---
+title: Network Chuck Blog
+draft: false
+tags:
+---
+ 
+
 Saw a great video from Network chuck implementing his version of what I have done with this site  [Link](https://youtu.be/dnE7c0ELEH8?si=0TZFKgFWP_ge-7FU)
 
 There are some fundamental differences between the two implementations

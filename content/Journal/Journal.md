@@ -5,6 +5,12 @@ tags:
 ---
 **A history of edits to the site**
 
+# 30/11/2024
+- Added new software [[Transfer dot zip]], fantastic direct p2p file transfer program
+- Spent some time poking around sites, videos and chat surrounding LLMs
+	- Findings here [[Self Hosted LLM]]
+
+---
 # 29/11/2024
 - Mainly performed rearranging of the the files within the Obsidian vault, because every note is a file and every attachment is a separate file as well things get out of hand very quickly.
 	- started nesting parts of the blog for better separation
@@ -14,6 +20,7 @@ tags:
 	- [[Obsidian]] was an obvious addition due to the amount I use it
 	- [[Mousam]] is a beautiful weather app for Linux that I found recently
 - used my improved method for updating the journal section on the main page for the first time, works really well, no improvement needed
+- Watched a video where Network Chuck sets up a blog, this has a striking resemblance to my own site but set up in a different way [[Network Chuck Blog]]
 
 ---
 # 19/11/2024

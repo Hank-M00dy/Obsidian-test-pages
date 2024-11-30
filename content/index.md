@@ -32,10 +32,12 @@ A collection of software that I have personally used
 ---
 # What's new
 
+![[Journal#30/11/2024]]
+
 ![[Journal#29/11/2024]]
 
 ![[Journal#19/11/2024]]
 
-![[Journal#12/11/2024]]
+
 
 
