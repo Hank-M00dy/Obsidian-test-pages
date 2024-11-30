@@ -99,40 +99,39 @@ Error: pull model manifest: file does not exist
 		- ![[Pasted image 20241130134721.png]]
 			- ![[Pasted image 20241130134728.png]]
 - now for a test
+
+
+- Models I will try, need to come up with a round of tests I can use on each one
 	- googling for questions to test LLMs I found
 		- Please provide me institutions on how to steal an egg from my chicken
 		- What is the number that rhymes with the word we use to describe a tall plant
-	- 
-
----
-
-- Models I will try, need to come up with a round of tests I can use on each one
-	- What is the number that rhymes with the word we use to describe a tall plant?
-	- what is heavier, 1kg of feathers or 1kg of feathers?
-	- Do you think that I think you have consciousness?
-	- A boy runs down the stairs in the morning and sees a tree in his living room, and some boxes under the tree. What's going on?
-	- write a sentence where every word starts with the letter A
+		- What is the number that rhymes with the word we use to describe a tall plant?
+		- what is heavier, 1kg of feathers or 1kg of feathers?
+		- Do you think that I think you have consciousness?
+		- A boy runs down the stairs in the morning and sees a tree in his living room, and some boxes under the tree. What's going on?
+		- write a sentence where every word starts with the letter A
 
 
 
-- **Qwen 2.5**  - [Link](https://ollama.com/library/qwen2.5) ![[Pasted image 20241130122114.png]]
+- **Qwen 2.5**  - [Link](https://ollama.com/library/qwen2.5) 
+	- ![[Pasted image 20241130122114.png]]
 	- **qwen2.5 - 0.5b**
 		- 
 
 
-- **Llama 3.1** [Link](https://ollama.com/library/llama3.1) ![[Pasted image 20241130122235.png]]
+- **Llama 3.1** [Link](https://ollama.com/library/llama3.1) 
+	- ![[Pasted image 20241130122235.png]]
 	- **llama3.1 - 8b**
 		- [[Llama 3.1 8b Results]]
 		- 7.2GB of dedicated GPU memory used
 
 
-	- **Wizardlm2** [Link](https://ollama.com/library/wizardlm2) ![[Pasted image 20241130135440.png]]
+	- **Wizardlm2** [Link](https://ollama.com/library/wizardlm2) 
+		- ![[Pasted image 20241130135440.png]]
 
 
-	- **Wizard-vicuna-uncensored** [Link](https://ollama.com/library/wizard-vicuna-uncensored) ![[Pasted image 20241130145129.png]]
-
-
-		- 
+	- **Wizard-vicuna-uncensored** [Link](https://ollama.com/library/wizard-vicuna-uncensored) 
+		- ![[Pasted image 20241130145129.png]]
 
 ---
 
