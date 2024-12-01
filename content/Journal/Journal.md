@@ -5,6 +5,14 @@ tags:
 ---
 **A history of edits to the site**
 
+# 01/12/2024
+- working on the site remotely so this is a good opportunity to download a few of the larger LLMs
+	- entered my test questions into the new LLMs
+		- [[Llama 3.1 8b Results]]
+		- [[Qwen 2.5 - 14b Results]]
+		- 
+
+---
 # 30/11/2024
 - Added new software [[Transfer dot zip]], fantastic direct p2p file transfer program
 - Spent some time poking around sites, videos and chat surrounding LLMs
