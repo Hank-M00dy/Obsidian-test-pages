@@ -5,6 +5,11 @@ tags:
 ---
 **A history of edits to the site**
 
+# 03/12/2024
+- made a very small start on Linux+ notes
+	- started a section on regular expressions
+
+---
 # 01/12/2024
 - working on the site remotely so this is a good opportunity to download a few of the larger LLMs
 	- entered my test questions into the new LLMs
