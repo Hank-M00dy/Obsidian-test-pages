@@ -13,8 +13,8 @@ tags:
 	- Due to many requests, grammar has been corrected on the index page and all pages going under final review (not including drafts) will be run through Grammarly
 
 - **After AI**
-	- Due to many requests, the grammar has been corrected on the index page. All pages going through final review (excluding drafts) will be checked with Grammarly.
-- *technically this correction was made with my self hosted LLM*
+	- Due to many requests, the grammar has been corrected on the index page. All pages going through the final review process (excluding drafts) will be checked with Grammarly.
+- *Technically this correction was made with my self-hosted LLM*
 
 ---
 # 01/12/2024
@@ -27,7 +27,7 @@ tags:
 ---
 # 30/11/2024
 - Added new software [[Transfer dot zip]], fantastic direct p2p file transfer program
-- Spent some time poking around sites, videos and chat surrounding LLMs
+- Spent some time poking around sites, videos, and chats surrounding LLMs
 	- Findings here [[Self Hosted LLM]]
 
 ---
