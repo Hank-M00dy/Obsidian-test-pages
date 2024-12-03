@@ -9,6 +9,13 @@ tags:
 - made a very small start on Linux+ notes
 	- started a section on regular expressions
 
+- **Before AI**
+	- Due to many requests, grammar has been corrected on the index page and all pages going under final review (not including drafts) will be run through Grammarly
+
+- **After AI**
+	- Due to many requests, the grammar has been corrected on the index page. All pages going through final review (excluding drafts) will be checked with Grammarly.
+- *technically this correction was made with my self hosted LLM*
+
 ---
 # 01/12/2024
 - working on the site remotely so this is a good opportunity to download a few of the larger LLMs
