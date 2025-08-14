@@ -32,6 +32,8 @@ A collection of software that I have personally used
 ---
 # What's new
 
+![[Journal#14/08/2025]]
+
 ![[Journal#03/12/2024]]
 
 ![[Journal#30/11/2024]]

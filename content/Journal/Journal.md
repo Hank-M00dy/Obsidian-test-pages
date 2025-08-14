@@ -5,6 +5,11 @@ tags:
 ---
 **A history of edits to the site**
 
+# 14/08/2025
+- After being offline for the better part of 8 months the site is back up!
+
+---
+
 # 03/12/2024
 - made a very small start on Linux+ notes
 	- started a section on regular expressions
