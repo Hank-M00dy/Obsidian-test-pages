@@ -6,7 +6,29 @@ tags:
 **A history of edits to the site**
 
 # 14/08/2025
-- After being offline for the better part of 8 months the site is back up!
+
+**Guess Who’s Back?**
+
+After being offline for the better part of 8 months, the site is finally back in action!
+
+What happened? Well… it started with a noble goal. I wanted to make things simpler: edit everything from my main Obsidian vault, have it magically sync, and drop a fresh copy of my content folder straight into my VS Project folder. Easy, right?
+
+In theory, yes. In practice… I accidentally built a file-duplicating feedback loop that behaved suspiciously like a computer virus. (10/10 would _not_ recommend.)
+
+The site itself was never actually down it just became impossible for me to update it. My local copy got completely trashed. Thankfully, the GitHub version was safe and untouched, patiently waiting for me to sort myself out.
+
+To get things back on track, I had to tackle a whole to-do list and pick up some new skills along the way:
+
+- How to pull a copy of my project using the GitHub extension in VS Code
+- How to add and remove an origin
+- How to add and remove an upstream to track updates
+- How to check if my origin and upstream configurations are correct
+- How to install all required dependencies for the project using npm
+- How to set my author ID
+- How to generate SSH keys and add my public key to GitHub
+- How to build and serve the site locally for review before publishing changes
+
+It took some work (and a few “aha” moments), but we’re back. Lesson learned: sometimes “making it simpler” makes it _way_ more complicated before it gets better.
 
 ---
 

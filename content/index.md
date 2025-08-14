@@ -38,7 +38,7 @@ A collection of software that I have personally used
 
 ![[Journal#30/11/2024]]
 
-![[Journal#29/11/2024]]
+
 
 
 
