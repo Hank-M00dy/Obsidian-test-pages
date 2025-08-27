@@ -1,6 +1,10 @@
 https://mermaid.js.org/syntax/gantt.html
 
+The Gantt chart turned out really well, turned out exactly how it was meant to
+## Screen shot
+![[Pasted image 20250827105529.png]]
 
+## VS Actual Gantt chart written in code
 ```mermaid
 gantt 
 	title Daily Schedule
@@ -25,7 +29,10 @@ gantt
 
 
 ```
-
+The skill tree on the other hand still has problems, in Obsidian, it displays far to large and does not render out onto the site
+## Screen shot
+![[Pasted image 20250827105904.png]]
+## VS Actual Gantt chart written in code
 ```mermaid
 flowchart TD
   %% Retail to Cyber Security — label-safe (no edge labels)
