@@ -1,0 +1,148 @@
+# Overview
+
+## Python mind map
+
+![[Pasted image 20250821110311.png]]
+
+# Lessons
+## Python Beginner Courses
+
+- [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
+	- [Python Full Course for Beginners - 2025](https://youtu.be/K5KVEU3aaeQ?si=qqiwOn4HWi6T8cvl)
+- 📖 Table of Content 
+	- [0:00:00](https://www.youtube.com/watch?v=K5KVEU3aaeQ) Introduction 
+	- [0:00:56](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=56s) What is Python? 
+		- Most popular programming language
+		- used by Software engineers, Mathematicians, Data Analysts, Scientists, Accountants, Network Engineers, the list goes on.
+		- Ideal programming language to learn first, why is this?
+			- solve complex problems in less time with fewer lines of code
+				- example, we want to extract the first 3 characters from the string "Hello World"
+					- `C#` - `str.Substring(0,3)`
+					- `Javascript` - `str.substr(0,3)`
+					- `Python` - `str[0:3]`
+			- Python is a multi-purpose language and can be used for a large range of jobs
+				- Data Analysis
+				- AI/Machine Learning
+				- Automation scripts
+				- Web/Mobile/Desktop Apps
+				- Testing
+				- Hacking
+			- Python is a high level language
+				- don't need to worry about complex tasks like memory management as seen in languages like `C++` 
+			- Cross Platform
+				- works on Windows, Linux and Mac
+			- Huge Community
+			- Large Ecosystem of libraries, Frameworks and tools
+			- Been around for over 20 Years
+		- There are 2 versions of Python
+			- Python 2 which is supported up to 2020
+			- Python 3 which is Python for the future
+				- This Course covers Python 3
+	- [0:04:11](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=251s) Installing Python 
+		- installation media can be found at
+			- [Python website](python.org)
+				- from the front page click downloads and click the link for your operating system
+					- when installing ensure the box titled "add to path" is selected. 
+					- On my system an older version of python was installed, the installer didn't give me the option to "add to path" only an upgrade option. to ensure this is enabled on my system I followed the following steps
+						- `win+r` type `sysdm.cpl` and press enter, go to advanced, environment variables, path, edit and add two new entry's
+							- **Note:** your name is the name of your user directory and python version is the latest release you upgraded to
+							- `C:\Users\<YourName>\AppData\Local\Programs\Python\<Python version>\`
+							- `C:\Users\<YourName>\AppData\Local\Programs\Python\<Python version>\Scripts\`
+				- verify installation in command prompt with
+					- `python --version`
+					- `pip --version`
+	- [0:05:36](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=336s) **Python Interpreter**
+		- Python Interpreter 
+			- By opening a shell and entering the text `python` and typing`enter` we are brought to the python interpreter which is basically a program that executes python code
+				- ![[Pasted image 20250825103544.png]]
+			- We can type our code into a file and pass it to the interpreter or we type code directly into this interactive shell 
+		- Expressions
+			- An expression is a piece of code that produces a value
+				- ![[Pasted image 20250825104000.png]]
+			- Expressions can produce Boolean values as well which is similar to yes or no in English
+				- ![[Pasted image 20250825104656.png]]
+		- Syntax errors are programming grammar errors
+			- ![[Pasted image 20250825110849.png]]
+	- [0:07:30](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=450s) Code Editors 
+		- Two types of tools can be used to write python code
+			- Editor
+				- An editor is a program designed for writing and editing code, they are generally lighter and offer basic text editing.
+				- popular code editors
+					- VS Code - Visual Studio Code
+					- Atom
+					- Sublime
+				- 
+			- IDE - Integrated Development Environment
+				- An IDE is a code editor with fancy features, such as:
+					- Autocompletion
+						- This helps you complete your code as you type, reducing the need to type every character by hand
+					- Debugging
+						- This feature helps in finding and fixing bugs (errors) in your programs
+					- Testing
+						- IDEs often include tools for writing and running tests for your code
+					- Linting 
+						- This involves analysing your code for potential errors as you write it, providing immediate feedback (e.g. a red underline for invalid syntax
+					- Code Formatting
+						- Tools within an IDE can automatically format your code according to style guides like PEP 8, making it clean and readable
+					- Code Snippets
+						- These are reusable blocks of code that can be quickly generated
+				- Popular Python IDE's Include
+					- PyCharm
+					- VS Code
+						- converted with an extension called 'Python' from Microsoft
+	- [0:08:49](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=529s) Your First Python Program 
+		- Project Setup in VS Code
+			- First, you create a new folder on your disk, for example, named `hello world`
+			- Inside this folder, you create a new file, which for Python should always have the **.py** **extension** (e.g., `app.py`)
+		- The `print()` Function
+			- Python includes many **built-in functions** for various tasks, similar to buttons on a TV remote
+			- function `print()`, used to **display content on the screen** (console/terminal)
+			- To use or "call" a function, you always follow its name with parentheses `()`
+			- When working with text (strings), you must enclose it in **quotes** (either double or single quotes). For example, `print("hello world")`
+		- Executing Your Code
+			- After writing your Python code, you **save the changes** (e.g., `Ctrl+S` on Windows, `Cmd+S` on Mac)
+			- VS Code has an **integrated terminal** (accessed by `Ctrl+Backtick`) that allows you to execute your code without switching programs
+			- To run your Python file, you type `python` (on Windows) or `python3` (on Mac/Linux) followed by the filename (e.g., `python app.py` or `python3 app.py`) in the terminal
+		- Code Execution Flow
+			- Instructions in your Python program are executed from top to bottom, in order
+		- Example
+			- ![[Pasted image 20250827092848.png]]
+	- [0:12:25](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=745s) Python Extension 
+		- 
+	- [0:14:26](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=866s) Linting Python Code 
+	- [0:18:40](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=1120s) Formatting Python Code 
+	- [0:22:51](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=1371s) Running Python Code 
+	- [0:24:30](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=1470s) Python Implementations 
+	- [0:26:59](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=1619s) How Python Code is Executed 
+	- [0:29:45](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=1785s) Quiz 
+	- [0:31:17](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=1877s) Python Mastery Course 
+	- [0:31:44](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=1904s) Variables 
+	- [0:34:48](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=2088s) Variable Names 
+	- [0:37:51](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=2271s) Strings 
+	- [0:43:20](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=2600s) Escape Sequences 
+	- [0:46:01](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=2761s) Formatted Strings 
+	- [0:48:09](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=2889s) String Methods 
+	- [0:54:03](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=3243s) Numbers 
+	- [0:56:50](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=3410s) Working With Numbers 
+	- [0:58:59](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=3539s) Type Conversion 
+	- [1:04:03](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=3843s) Quiz 
+	- [1:06:43](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=4003s) Comparison Operators 
+	- [1:08:46](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=4126s) Conditional Statements 
+	- [1:12:56](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=4376s) Ternary Operator 
+	- [1:15:04](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=4504s) Logical Operators 
+	- [1:19:07](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=4747s) Short-circuit Evaluations 
+	- [1:21:13](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=4873s) Chaining Comparison Operators 
+	- [1:22:35](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=4955s) Quiz 
+	- [1:24:18](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=5058s) For Loops 
+	- [1:27:56](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=5276s) For..Else 
+	- [1:30:42](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=5442s) Nested Loops 
+	- [1:33:26](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=5606s) Iterables 
+	- [1:36:34](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=5794s) While Loops 
+	- [1:41:33](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=6093s) Infinite Loops 
+	- [1:43:10](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=6190s) Exercise 
+	- [1:45:13](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=6313s) Defining Functions 
+	- [1:47:37](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=6457s) Arguments 
+	- [1:49:57](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=6597s) Types of Functions 
+	- [1:53:59](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=6839s) Keyword Arguments 
+	- [1:55:59](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=6959s) Default Arguments 
+	- [1:57:34](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=7054s) xargs

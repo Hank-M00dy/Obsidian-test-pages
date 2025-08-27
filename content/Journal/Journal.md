@@ -5,6 +5,19 @@ tags:
 ---
 **A history of edits to the site**
 
+# 19/08/2025
+
+Made a start on a _Level Up_ section to the site, a road map of where I’m heading and an attempt at time blocking. The idea is to treat it as both a progress tracker and a bit of accountability for myself. Writing things down makes them feel more real, less like abstract goals floating in my head.
+
+Time blocking is still new to me, so I’m approaching it more as an experiment than a strict system. The goal isn’t to fill every minute but to give my days some structure so I can see where the time goes and hopefully direct more of it toward the things that matter.
+
+I’ve also started experimenting with **Mermaid charts in Obsidian** to map things visually. They’re really handy for sketching out timelines and workflows, but I’m not 100% sure yet how well they’ll render once pushed to the web. Hopefully they translate cleanly, because they could add a nice visual layer to the _Level Up_ roadmap.
+
+This section of the site will probably evolve over time. Right now, it’s a starting point, a rough sketch of what I want to accomplish and how I plan to get there. I’m curious to see how it changes as I learn what works and what doesn’t.
+
+The _Level Up_ page feels like a small step, but it’s an important one. It’s not just about productivity—it’s about documenting the process of growth, experimenting with tools and systems, and learning from the journey along the way.
+
+---
 # 14/08/2025
 
 **Guess Who’s Back?**

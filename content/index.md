@@ -3,6 +3,15 @@ title: Welcome to my page
 ---
 ---
 # WORK IN PROGRESS
+*noun*
+#### British English
+wur-kin-PROH-gress
+
+*1. something that is being developed or is not yet finished 
+     _Her novel is still a work in progress._
+    
+*2. (also **works in progress**) [Business] goods that are still in the process of being made*
+
 This site is very new, so please check back often for new content. I've added a 'What's New' segment to this page so you can see right away if anything has been added recently. I will keep it to three entries, but a complete list can be found in [[Journal]]
 
 ---
