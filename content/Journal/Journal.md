@@ -5,6 +5,22 @@ tags:
 ---
 **A history of edits to the site**
 
+---
+# 27/08/2025
+I’ve started working through a Python tutorial video and decided to write my notes online as I go. My knowledge of Python is pretty basic, I’ve done a bit of coding with it before but I really wanted to start from scratch and build a stronger foundation.
+
+So far, I’ve covered:
+- **Why Python matters** and what makes it such a popular programming language. 
+- **How Python is installed** and set up on a system.
+- An introduction to the **interpreter** and how it processes code.
+- Exploring different **code editors** and choosing the right one for learning.
+- Writing my **first simple Python program**.
+
+It feels good to slow down and really understand the fundamentals this time. I’m excited to keep building on these basics and see how far I can take this learning journey.
+
+I’ve also found a couple of errors on the site, so I’ll be going back to comb over what I’ve already done. That means fixing backlinks, tidying up index pages, and fleshing out the skill tree page a bit more. It feels like part of the same learning process, improving not just my coding, but also the way I organize and present what I’m working on.
+
+---
 # 19/08/2025
 
 Made a start on a _Level Up_ section to the site, a road map of where I’m heading and an attempt at time blocking. The idea is to treat it as both a progress tracker and a bit of accountability for myself. Writing things down makes them feel more real, less like abstract goals floating in my head.
