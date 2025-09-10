@@ -23,3 +23,9 @@ tags:
 # [[Transfer dot zip]] - Direct transfer large files p2p
 
 ![[Pasted image 20241130093155.png]]
+
+
+
+---
+
+Back to the [[Central Hub]]

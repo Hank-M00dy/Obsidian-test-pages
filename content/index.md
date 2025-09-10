@@ -25,31 +25,22 @@ By sharing my [[Projects]] I hope to foster easier collaboration and inspire oth
 
 By sharing my notes I hope to provide a knowledge base myself and others can refer to. I aim to bring a lot of different topics of interest together into one place, hopefully, relevant to one another when viewed as a whole.
 
-The overall structure will be as follows:
+## [[Central Hub]]
+The central hub should let you and me navigate to information quickly while encouraging exploration. It contains links to the rest of the site. On a desktop browser this may feel redundant, since the navigation tree is visible on the left, but that feature isn’t available on mobile devices.
 
-## [[Index]]
-The central hub should allow you or me to navigate to information quickly and foster exploration.
-## [[Journal]]
-Link to a journal-like blog use to quickly link to new content and track changes
-## [[Knowledge Base]]
-Link to the knowledge base, I often forget how extensive the field of IT is and how easy it is to forget the fine print when solving a problem. This section will be crammed full of useful specs and info like what is the real difference between cat5e and cat6
-## [[Projects]]
-Link to a projects section where I can document notes on things I'm working on outside of official tracks or projects inspired by what I've been studying
-## [[My Favourite Software]]
-A collection of software that I have personally used
 
 ---
 # What's new
+
+![[Journal#11/09/2025]]
 
 ![[Journal#27/08/2025]]
 
 ![[Journal#19/08/2025]]
 
-![[Journal#14/08/2025]]
 
 
-
-
+Onwards to the [[Central Hub]]
 
 
 

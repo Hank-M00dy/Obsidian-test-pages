@@ -8,6 +8,7 @@ tags:
 
 ![[Pasted image 20241203072605.png|400]]
 
+
 - grep (globally search a regular expression and print)
 	- very old utility, you will be hard pressed to find a linux distro that doesn't have grep. There can be variations like egrep and fgrep but you can pretty much guaranteed to have grep.
 	- where `find` and `locate` will find file names across a hard drive , `grep` has the ability to search not only across a hard drive but inside of files. 
@@ -34,3 +35,8 @@ tags:
 				- `..` one level above current working directory
 				- `~` users home directory
 				- `/` root level directory
+
+
+---
+
+Back to the [[Central Hub]]

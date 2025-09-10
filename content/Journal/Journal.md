@@ -3,7 +3,23 @@ title: Journal
 draft: false
 tags:
 ---
-**A history of edits to the site**
+Back to the [[Central Hub]]
+
+## **A history of edits to the site**
+
+--- 
+# 11/09/2025
+
+Site Updates & Housekeeping
+
+I’ve been doing some tidying up around the site lately and wanted to share a quick update on what’s new.
+
+- **Improved Readability**: I went back to [[1.1 The OSI Model]] and added proper headings. It’s much easier to follow now instead of being one long wall of text.
+- **Better Mobile Navigation**: Since the site can feel a little cramped on smaller screens, I added some extra links to make it easier to move around when browsing on mobile.
+- **New Page – Inspiration & Quotes**: I’ve carved out a space dedicated to motivation, ideas, and quotes worth holding onto.
+- **Linux Section**: There’s now a dedicated Linux area for general notes and learnings. This is separate from the CompTIA material so I can keep things better organised.
+
+Nothing too flashy, just some behind-the-scenes improvements to make the site cleaner and more useful as it grows
 
 ---
 # 27/08/2025
@@ -150,3 +166,7 @@ It took some work (and a few “aha” moments), but we’re back. Lesson learne
 	- [[1.2 Network Topologies and Types]]
 	- [[1.4 IP Subnetting]]
 	- [[1.5 ports and protocols and encrypted alternatives]]
+
+
+
+Back to the [[Central Hub]]

@@ -13,3 +13,8 @@ https://youtu.be/Dg2Lek-xN70?si=cg5vySmQZ_A3-F-F
 - gives you help pages when there is no internet access or if you only have a command line
 
 full notes to come
+
+
+---
+
+Back to the [[Central Hub]]

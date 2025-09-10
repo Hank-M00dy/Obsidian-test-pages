@@ -17,7 +17,18 @@ tags:
 			- [[1.3 Cables and Connectors]]
 			- [[1.4 IP Subnetting]]
 			- [[1.5 ports and protocols and encrypted alternatives]]
+			- [[1.6  network services]]
+			- [[1.7  Datacentre network architecture]]
 	- Security+
 	- Linux+
-		- [[man pages and offline knowledge-base]]
 		- 
+- General Linux
+	- [[man pages and offline knowledge-base]]
+	- [[GREP]]
+- Programming
+	- [[Python]]
+
+
+---
+
+Back to the [[Central Hub]]

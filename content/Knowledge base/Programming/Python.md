@@ -108,9 +108,24 @@
 		- Example
 			- ![[Pasted image 20250827092848.png]]
 	- [0:12:25](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=745s) Python Extension 
-		- 
+		- The Python Extension turns VS Code into a powerful IDE for Python application development
+		- To install it, you navigate to the extensions panel in VS Code, search for "Python," and install the official extension from Microsoft.
+		- The Python extension provides numerous functionalities, including:
+			- Linting
+			- Debugging
+			- Autocompletion
+			- Code Formatting
+			- Code Snippets
+			- Direct Code Execution
 	- [0:14:26](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=866s) Linting Python Code 
+		- This feature analyses your code for potential errors as you write it, preventing you from having to run the program to discover issues. It identifies problems such as missing parentheses in function calls (especially relevant for Python 3 vs. Python 2 code) or invalid syntax.
+			- The default linter used by the Python extension is **Pylint**, which is also the most popular choice among developers
+			- Other linters like flake8, mypy, and pep8 are also available and can be selected via the command palette
 	- [0:18:40](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=1120s) Formatting Python Code 
+		- The extension provides tools to make your code clean and readable.
+		- It helps automatically format code according to PEP 8, which is a style guide defining rules for formatting Python code to ensure consistency.
+		- The extension uses autopep8 as the most popular tool for automatically formatting Python code.
+		- You can configure VS Code to automatically format your file every time you save changes by enabling the "Editor: Format On Save" setting.
 	- [0:22:51](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=1371s) Running Python Code 
 	- [0:24:30](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=1470s) Python Implementations 
 	- [0:26:59](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=1619s) How Python Code is Executed 
@@ -146,3 +161,9 @@
 	- [1:53:59](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=6839s) Keyword Arguments 
 	- [1:55:59](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=6959s) Default Arguments 
 	- [1:57:34](https://www.youtube.com/watch?v=K5KVEU3aaeQ&t=7054s) xargs
+
+
+
+---
+
+Back to the [[Central Hub]]
