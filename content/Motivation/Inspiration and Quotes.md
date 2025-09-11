@@ -18,7 +18,7 @@ Centurion
 ---
 David Goggins
 - [The mind controls all](https://youtube.com/shorts/zhL_nKIh5BA?si=yJ8texoMhsrU8dRK)
-- [Powerful Motivational Speech](youtu.be/X4nGU4DZUwE?si=8k)
+- [Powerful Motivational Speech](https://youtu.be/X4nGU4DZUwE?si=OiHZt4w3gZo2e-2c)
 
 ---
 
